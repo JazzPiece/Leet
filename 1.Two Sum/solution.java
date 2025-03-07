@@ -22,4 +22,4 @@ class Solution {
         }
         return new int[]{}; // This line is never reached due to the problem guarantee
     }
-}
+}   
